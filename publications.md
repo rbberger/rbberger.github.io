@@ -9,12 +9,14 @@ permalink: /publications/
 
 ## 2016
 
+<a name="dissertation"></a>
 ### Efficiency and Quality Control for Particle Simulations
 
 <table>
 <tr><th>Author:</th><td><b>R. Berger</b></td></tr>
 <tr><th>Type:</th><td>Ph.D. Dissertation</td></tr>
 <tr><th>URL:</th><td><a href="https://epub.jku.at/obvulihs/content/titleinfo/1009602" target="_blank">https://epub.jku.at/obvulihs/content/titleinfo/1009602</a></td></tr>
+<tr><th>Files:</th><td><a href="/assets/files/phd_dissertation.pdf" target="_blank">PDF</a></td></tr>
 </table>
 
 This work describes the efforts of improving the efficiency and quality of the LIGGGHTS open-
@@ -46,7 +48,7 @@ future computing resources can be used more effectively.
 <table>
 <tr><th>Authors:</th><td><b>R. Berger</b>, C. Kloss, A. Kohlmeyer, S. Pirker</td></tr>
 <tr><th>Published in:</th><td>Powder Technology</td></tr>
-<tr><th>URL:</th><td><a href="https://doi.org/10.1016/j.powtec.2015.03.019">https://doi.org/10.1016/j.powtec.2015.03.019</a></td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.1016/j.powtec.2015.03.019" target="_blank">https://doi.org/10.1016/j.powtec.2015.03.019</a></td></tr>
 <tr><th>Keywords:</th><td>LIGGGHTS, Discrete Element Method, Hybrid parallelization, MPI, OpenMP</td></tr>
 </table>
 
@@ -67,7 +69,7 @@ simulations.
 <table>
 <tr><th>Authors:</th><td>H. Prähofer, C. Wirth and <b>R. Berger</b></td></tr>
 <tr><th>Published in:</th><td>11th IEEE International Conference on Industrial Informatics (INDIN)</td></tr>
-<tr><th>URL:</th><td><a href="https://doi.org/10.1109/INDIN.2013.6622946">https://doi.org/10.1109/INDIN.2013.6622946</a></td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.1109/INDIN.2013.6622946" target="_blank">https://doi.org/10.1109/INDIN.2013.6622946</a></td></tr>
 </table>
 
 This paper presents an approach to reverse engineering and dynamic analysis of
@@ -85,7 +87,7 @@ visualization methods available, and results from a case study.
 <table>
 <tr><th>Authors:</th><td>H. Prähofer, C. Wirth and <b>R. Berger</b>, H. Prähofer, C. Wirth and R. Schatz</b></td></tr>
 <tr><th>Published in:</th><td>2012 IEEE 17th International Conference on Emerging Technologies & Factory Automation (ETFA 2012)</td></tr>
-<tr><th>URL:</th><td><a href="https://doi.org/10.1109/ETFA.2012.6489785">https://doi.org/10.1109/ETFA.2012.6489785</a></td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.1109/ETFA.2012.6489785" target="_blank">https://doi.org/10.1109/ETFA.2012.6489785</a></td></tr>
 </table>
 
 This paper describes a tool for offline debugging and trace visualization of
@@ -102,3 +104,30 @@ The paper presents the conceptional background of the approach, shows how
 program runs can be visualized, and how they can be analysed in detail. Then it
 demonstrates how the the tool supports a debugging process by an illustrative
 example.
+
+<a name="diplom"></a>
+### A Tool for Offline Debugging and Trace Visualization of SoftPLC Programs
+
+<table>
+<tr><th>Author:</th><td><b>R. Berger</b></td></tr>
+<tr><th>Type:</th><td>Diplom Thesis</td></tr>
+<tr><th>Files:</th><td><a href="/assets/files/diplom_thesis.pdf" target="_blank">PDF</a></td></tr>
+</table>
+
+This thesis describes the Trace Visualization Tool developed at the Christian Doppler Laboratory
+for Automated Software Engineering. It was part of a larger project, Capture & Replay, whose
+goal is the development of methods and tools for recording real-time PLC applications for
+deterministic replay, off-line debugging, and dynamic program analysis. The project is conducted
+in cooperation with and funded by KEBA AG.
+
+This tool allows PLC developers to explore and analyse program recordings using a variety
+of different views. Each view shows a different level of detail, allowing the user to dive into
+the program from high-level views to a low-level views. Unlike a regular single-step debugger,
+it allows navigating the entire program run and examining the program’s state at any point in
+time.
+
+The thesis describes the different views provided by the tool, gives an introduction of how
+they are used for debugging, and outlines their implementation using the Windows Presentation
+Foundation. It also describes the main challenges of handling the huge amount of data and
+preparing it for display. Finally, a case study is presented which was developed to validate both
+the Capture & Replay approach and the visualization tool.
