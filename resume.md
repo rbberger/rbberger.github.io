@@ -8,7 +8,7 @@ permalink: /resume/
 <div style="margin-left: 154px; padding-top: 16px; display: block;">
 <h3>Richard Felix Berger</h3>
 <p>High-Performance Computing Specialist | Software Engineer | Mechatronic</p>
-<p><a href="mailto:richard.berger@outlook.com">richard.berger@outlook.com</a> | <a href="https://www.linkedin.com/in/richard-felix-berger/"><svg class="svg-icon" style="padding-top: 4px"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> richard-felix-berger</a></p>
+<p><a href="mailto:{{ site.email }}">{{ site.email }}</a> | <a href="https://www.linkedin.com/in/richard-felix-berger/"><svg class="svg-icon" style="padding-top: 4px"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> richard-felix-berger</a></p>
 </div>
 
 
