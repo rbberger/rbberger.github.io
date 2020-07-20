@@ -316,3 +316,7 @@ If you are completely new to Linux, I highly recommend investing some time in
 studying Linux online tutorials. E.g., Tutorials about Bash Shell and Basic
 Unix commands (e.g., [Linux Journey](https://linuxjourney.com/)). Acquiring these skills will make you
 much more productive in this environment.
+
+## Further reading
+
+- [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
