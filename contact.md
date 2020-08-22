@@ -11,7 +11,9 @@ permalink: /contact/
 Dr. Richard Berger<br/>
 Institute for Computational Molecular Science (035-07)<br/>
 College of Science and Technology<br/>
-Temple University, Philadelphia, PA 19122
+Temple University<br/>
+1925 N. 12th Street<br/>
+Philadelphia, PA 19122
 </td>
 </tr>
 <tr>
