@@ -10,13 +10,29 @@ permalink: /talks/
 
 <table>
 <tr><th>Website:</th><td><a href="https://lammps.sandia.gov/workshops/Aug21/" target="_blank">LAMMPS Workshop and Symposium</a></td></tr>
-<tr><th>Location:</th><td>Philadelphia, Pennsylvania, USA</td></tr>
+<tr><th>Location:</th><td>Philadelphia, Pennsylvania, USA (Online via Zoom)</td></tr>
 <tr><th>Dates:</th><td>August 10-13, 2021</td></tr>
 <tr><th>Talks:</th><td>
 <dl>
 <dt><a href="https://www.lammps.org/workshops/Aug21/developer/library/">How to Use LAMMPS as a Library and from Python, How to call Python from LAMMPS</a></dt>
 <dd>An introduction to the LAMMPS library interface(s) and how to use Python with LAMMPS.</dd>
 </dl></td></tr>
+</table>
+
+### High-Performance Computing Technologies
+
+<table>
+<tr><th>Program:</th><td><a href="https://www.mhpc.it/" target="_blank">Master in High-Performance Computing (MHPC)</a></td></tr>
+<tr><th>Course Website:</th><td><a href="https://www.hpc.temple.edu/mhpc/2021/hpc-technology/" target="_blank">High-Performance Computing Technologies</a></td></tr>
+<tr><th>Location:</th><td>Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italyi (Online via Zoom)</td></tr>
+<tr><th>Dates:</th><td>Feb 2021</td></tr>
+<tr><th>Description:</th><td><p>Due to COVID we created an online-only version
+of our course. It introduces students to the basics of building, configuring
+and operating High-Performance Computing Clusters, while remotely connecting to
+a preassembled and cabled but unconfigured training cluster. The goal of this course is to give students a
+solid foundation for understanding the components of a cluster, how they are
+typically configured, and what challenges operating such a machine
+entails.</p></td></tr>
 </table>
 
 ## 2020
@@ -44,11 +60,11 @@ such a machine entails.</p></td></tr>
 <tr><th>Program:</th><td><a href="https://www.mhpc.it/" target="_blank">Master in High-Performance Computing (MHPC)</a></td></tr>
 <tr><th>Location:</th><td>Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy</td></tr>
 <tr><th>Dates:</th><td>March 2019</td></tr>
-<tr><th>Description:</th><td><p>A two-week course introducing the basics of building, configuring and
-operating High-Performance Computing Clusters. The goal of this course is to
-give students a solid foundation for understanding the components of a
-cluster, how they are typically configured, and what challenges operating
-such a machine entails.</p></td></tr>
+<tr><th>Description:</th><td><p>A two-week course introducing the basics of
+building, configuring and operating High-Performance Computing Clusters. The
+goal of this course is to give students a solid foundation for understanding
+the components of a cluster, how they are typically configured, and what
+challenges operating such a machine entails.</p></td></tr>
 </table>
 
 ### LAMMPS Workshop
