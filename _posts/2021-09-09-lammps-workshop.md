@@ -11,4 +11,4 @@ virtual and hosted by Temple University via Zoom.
 In total we had more than 700 participants from over 55 countries all over the
 world. In case you missed it, here is its website which includes video recordings:
 
-https://www.lammps.org/workshops/Aug21/
+[https://www.lammps.org/workshops/Aug21/](https://www.lammps.org/workshops/Aug21/)
