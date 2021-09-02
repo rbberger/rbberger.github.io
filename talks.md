@@ -24,7 +24,7 @@ permalink: /talks/
 <table>
 <tr><th>Program:</th><td><a href="https://www.mhpc.it/" target="_blank">Master in High-Performance Computing (MHPC)</a></td></tr>
 <tr><th>Course Website:</th><td><a href="https://www.hpc.temple.edu/mhpc/2021/hpc-technology/" target="_blank">High-Performance Computing Technologies</a></td></tr>
-<tr><th>Location:</th><td>Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italyi (Online via Zoom)</td></tr>
+<tr><th>Location:</th><td>Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy (Online via Zoom)</td></tr>
 <tr><th>Dates:</th><td>Feb 2021</td></tr>
 <tr><th>Description:</th><td><p>Due to COVID we created an online-only version
 of our course. It introduces students to the basics of building, configuring
