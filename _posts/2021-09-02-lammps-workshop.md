@@ -13,4 +13,4 @@ world. In case you missed it, here is its website which includes video recording
 
 [https://www.lammps.org/workshops/Aug21/](https://www.lammps.org/workshops/Aug21/)
 
-<img src="/assets/img/lammps-workshop-2021.png" />
+<img style="width: 50%" src="/assets/img/lammps-workshop-2021.png" />
