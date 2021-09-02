@@ -4,6 +4,21 @@ title: Lectures & Talks
 permalink: /talks/
 ---
 
+## 2021
+
+### LAMMPS Workshop
+
+<table>
+<tr><th>Website:</th><td><a href="https://lammps.sandia.gov/workshops/Aug21/" target="_blank">LAMMPS Workshop and Symposium</a></td></tr>
+<tr><th>Location:</th><td>Philadelphia, Pennsylvania, USA</td></tr>
+<tr><th>Dates:</th><td>August 10-13, 2021</td></tr>
+<tr><th>Talks:</th><td>
+<dl>
+<dt><a href="https://www.lammps.org/workshops/Aug21/developer/library/">How to Use LAMMPS as a Library and from Python, How to call Python from LAMMPS</a></dt>
+<dd>An introduction to the LAMMPS library interface(s) and how to use Python with LAMMPS.</dd>
+</dl></td></tr>
+</table>
+
 ## 2020
 
 
