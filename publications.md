@@ -7,6 +7,36 @@ permalink: /publications/
 * [Google Scholar](https://scholar.google.com/citations?user=hrDvB8AAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-3044-8266)
 
+## 2021
+
+<a name="lammps-paper"></a>
+
+### LAMMPS - A flexible simulation tool for particle-based materials modeling at the atomic, meso, and continuum scales
+
+<table>
+<tr><th>Authors:</th><td>Aidan P. Thompson, H. Metin Aktulga, <b>Richard Berger</b>, Dan S. Bolintineanu, W. Michael Brown, Paul S. Crozier, Pieter J. in 't Veld, Axel Kohlmeyer, Stan G. Moore, Trung Dac Nguyen, Ray Shan, Mark Stevens, Julien Tranchida, Christian Trott, Steven J. Plimpton</td></tr>
+<tr><th>Published in:</th><td>Computer Physics Communications</td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.1016/j.cpc.2021.108171" target="_blank">https://doi.org/10.1016/j.cpc.2021.108171</a></td></tr>
+</table>
+
+Since the classical molecular dynamics simulator LAMMPS was released as an open
+source code in 2004, it has become a widely-used tool for particle-based
+modeling of materials at length scales ranging from atomic to mesoscale to
+continuum. Reasons for its popularity are that it provides a wide variety of
+particle interaction models for different materials, that it runs on any
+platform from a single CPU core to the largest supercomputers with
+accelerators, and that it gives users control over simulation details, either
+via the input script or by adding code for new interatomic potentials,
+constraints, diagnostics, or other features needed for their models. As a
+result, hundreds of people have contributed new capabilities to LAMMPS and it
+has grown from fifty thousand lines of code in 2004 to a million lines today.
+In this paper several of the fundamental algorithms used in LAMMPS are
+described along with the design strategies which have made it flexible for both
+users and developers. We also highlight some capabilities recently added to the
+code which were enabled by this flexibility, including dynamic load balancing,
+on-the-fly visualization, magnetic spin dynamics models, and quantum-accuracy
+machine learning interatomic potentials.
+
 ## 2016
 
 <a name="dissertation"></a>
