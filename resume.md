@@ -20,7 +20,18 @@ permalink: /resume/
     <col style="width: 75%" />
 </colgroup>
 <tr>
-    <th>07/2018 - Present</th>
+    <th>02/2022 - Present</th>
+    <td>
+    <h4>Scientist</h4>
+    <p>Los Alamos National Lab, Los Alamos, USA</p>
+<ul>
+<li>Working on the <a href="https://flecsi.org">FleCSI</a> project</li>
+<li>DevOps for various other projects</li>
+</ul>
+    </td>
+</tr>
+<tr>
+    <th>07/2018 - 02/2022</th>
     <td>
     <h4>Research Associate Professor</h4>
     <p>Temple University, Philadelphia, USA</p>
