@@ -7,6 +7,41 @@ permalink: /publications/
 * [Google Scholar](https://scholar.google.com/citations?user=hrDvB8AAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-3044-8266)
 
+## 2022
+
+<a name="xcap-report-2022"></a>
+
+### Singularity-EOS XCAP Report
+
+<table>
+<tr><th>Authors:</th><td>
+Peterson, Jeffrey Hammett and Miller, Jonah Maxwell and Pietarila Graham, Anna
+Mataleena and Holladay, Daniel Alphin and Mauney, Christopher Michael and
+<b>Berger, Richard Felix</b> and Tsai, Karen Chung-Yen
+</td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.2172/1907763" target="_blank">https://doi.org/10.2172/1907763</a></td></tr>
+</table>
+
+### AlphaFold2 Workflow Optimization for High Throughput Predictions in HPC Environment
+
+<table>
+<tr><th>Authors:</th><td>
+Posada, Edwin Fernando and McGee, Francisco and <b>Berger, Richard</b> and
+Dorrell, Mitchell and Lamanna, Jason and Sanielevici, Sergiu and Carnevale,
+Vincenzo
+</td></tr>
+<tr><th>Published in:</th><td>PEARC '22 Proceedings</td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.1145/3491418.3535181" target="_blank">https://doi.org/10.1145/3491418.3535181</a></td></tr>
+</table>
+
+In this work, we propose a high-throughput implementation that executes
+AlphaFold2 efficiently in a High-Performance Computing environment. In this
+case, we have tested our proposed workflow with the T1050 CASP14 sequence on
+PSC’s Bridges-2 HPC system. The results showed an improvement in
+computation-only runtimes and the opportunity to reuse the protein databases
+when calculating many structures simultaneously, which would lead to massive
+time savings while maximizing the utilization of computing resources.
+
 ## 2021
 
 <a name="lammps-paper"></a>
