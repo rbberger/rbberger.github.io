@@ -25,8 +25,10 @@ permalink: /resume/
     <h4>Scientist</h4>
     <p>Los Alamos National Lab, Los Alamos, USA</p>
 <ul>
-<li>Working on the <a href="https://flecsi.org">FleCSI</a> project</li>
-<li>DevOps for various other projects</li>
+<li>Core Developer on the <a href="https://flecsi.org">FleCSI</a> project</li>
+<li>Working on DevOps for multiple LANL codes, enabling teams to build and run on new platforms such as Venado and El Capitan</li>
+<li>Package maintainer and contributor to <a href="https://spack.io">Spack</a></li>
+<li>Core Developer on <a href="https://github.com/lammps/lammps" target="_blank">LAMMPS</a> Molecular Dynamics code</li>
 </ul>
     </td>
 </tr>
