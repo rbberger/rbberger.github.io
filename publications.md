@@ -7,6 +7,20 @@ permalink: /publications/
 * [Google Scholar](https://scholar.google.com/citations?user=hrDvB8AAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-3044-8266)
 
+## 2024
+
+### Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures
+
+<table>
+<tr><th>Contributors:</th><td>
+Jonah M. Miller, Daniel A. Holladay, Jeffrey H. Peterson, Christopher M.
+Mauney, <b>Richard Berger</b>, Anna Pietarila Graham, Karen C. Tsai, Brandon
+Barker, Alexander Holas, Ann E. Mattsson, Mariam Gogilashvili, Joshua C.
+Dolence, Chad D. Meyer, Sriram Swaminarayan, Christoph Junghans
+</td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.21105/joss.06805" target="_blank">https://doi.org/10.21105/joss.06805</a></td></tr>
+</table>
+
 ## 2022
 
 <a name="xcap-report-2022"></a>
