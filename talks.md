@@ -10,7 +10,7 @@ permalink: /talks/
 
 <table>
 <tr><th>Event:</th><td><a href="https://events.linuxfoundation.org/hpsf-conference/" target="_blank">HPSF Conference 2025</a></td></tr>
-<tr><th>Location:</th><td></td></tr>
+<tr><th>Location:</th><td>Chicago, IL, USA</td></tr>
 <tr><th>Dates:</th><td>May 5 - 8, 2025</td></tr>
 <tr><th>Talks:</th><td>
 <dl>
