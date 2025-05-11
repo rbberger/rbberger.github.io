@@ -4,6 +4,38 @@ title: Lectures & Talks
 permalink: /talks/
 ---
 
+## 2025
+
+### High-Performance Software Foundation (HPSF) Conference
+
+<table>
+<tr><th>Event:</th><td><a href="https://events.linuxfoundation.org/hpsf-conference/" target="_blank">HPSF Conference 2025</a></td></tr>
+<tr><th>Location:</th><td></td></tr>
+<tr><th>Dates:</th><td>May 5 - 8, 2025</td></tr>
+<tr><th>Talks:</th><td>
+<dl>
+<dt><a href="/assets/files/hpsf2025/LA-UR-25-23479.pdf">Driving Continuous Integration and Developer Workflows with Spack</a></dt>
+<dd>
+<p>Spack makes it easy to install dependencies for our software on multiple HPC
+platforms. However, there is little guidance on how to structure Spack
+environments for larger projects, share common Spack installations with code
+teams and utilize them in an effective way for continuous integration and
+development.</p>
+
+<p>This presentation will share some of the lessons learned from deploying
+chained Spack installations for multiple code teams at LANL on various HPC
+platforms both on site and on other Tri-Lab systems, how to structure such
+deployments for reusability and upgradability, and make them deployable even on
+air-gapped systems. It will also show how we utilize Spack's build facilities
+to drive CMake-based projects on GitLab for continuous integration, without
+having to replicate build configuration logic in GitLab files, while giving
+developers an easy-to-follow workflow for recreating CI runs in various
+configurations.</p>
+</dd>
+</dl>
+</td></tr>
+</table>
+
 ## 2021
 
 ### LAMMPS Workshop
