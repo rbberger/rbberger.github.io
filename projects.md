@@ -21,6 +21,6 @@ permalink: /projects/
 
 <h2 style="margin-top: 2em">LAMMPS</h2>
 
-[Website](https://www.lammps.org) | [GitHub](https://github.com/lammps/lammps) | [Documentation](https://lammps.sandia.gov/doc/Manual.html)
+[Website](https://www.lammps.org) | [GitHub](https://github.com/lammps/lammps) | [Documentation](https://docs.lammps.org/Manual.html)
 
 <img src="/assets/img/lammps_logo.png" alt="LAMMPS Logo" />
