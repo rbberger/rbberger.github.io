@@ -31,6 +31,9 @@ to drive CMake-based projects on GitLab for continuous integration, without
 having to replicate build configuration logic in GitLab files, while giving
 developers an easy-to-follow workflow for recreating CI runs in various
 configurations.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u73mESk0Q4E?si=oATVCmkw56Ft338v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </dd>
 </dl>
 </td></tr>
