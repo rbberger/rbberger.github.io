@@ -7,6 +7,65 @@ permalink: /publications/
 * [Google Scholar](https://scholar.google.com/citations?user=hrDvB8AAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-3044-8266)
 
+## 2025
+
+### Enhancing HPX with FleCSI: Automatic Detection of Implicit Task Dependencies
+
+<table>
+<tr><th>Authors:</th><td>
+Davis Herring, Maxim Moraru, Scott Pakin, Julien Loiseau, <b>Richard Berger</b>, Philipp V. F. Edelmann, and Ben Bergen
+</td></tr>
+</table>
+
+### LAMMPS: A Case Study For Applying Modern Software Engineering to an Established Research Software Package
+
+<table>
+<tr><th>Authors:</th><td>
+Kohlmeyer, Axel, <b>Berger, Richard</b>
+</td></tr>
+<tr><th>Published in:</th><td>USRSE25 Conference Proceedings</td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.5281/zenodo.17117559" target="_blank">https://doi.org/10.5281/zenodo.17117559</a></td></tr>
+</table>
+
+We review various changes made in recent years to the software development
+process of the LAMMPS simulation software package and the software itself. We
+discuss how those changes have impacted the effort and workflow required to
+develop and maintain a software package that has been in existence for more
+than 30 years and where a significant part of the code base is contributed by
+external developers. We also look into how those changes have affected the code
+quality and ease of modifying and extending the software while at the same time
+its audience has changed from a cohort with a generally strong software
+development background to a group containing many researchers with limited
+software development skills. We explore how this contributes to LAMMPS’
+significant growth in popularity in that time. We close with an outlook on
+future steps.
+
+### A Hands-On Curriculum for Training in HPC Cluster Deployment and Management
+
+<table>
+<tr><th>Authors:</th><td>
+Posada, Edwin Fernando, <b>Berger, Richard</b>
+</td></tr>
+<tr><th>Published in:</th><td>USRSE25 Conference Proceedings</td></tr>
+<tr><th>URL:</th><td><a href="https://doi.org/10.5281/zenodo.17252661" target="_blank">https://doi.org/10.5281/zenodo.17252661</a></td></tr>
+</table>
+
+This paper presents the design, methodology, and outcomes of the
+High-Performance Computing Technologies (HPCT) course, a hands-on training
+program focused on the system-side of HPC cluster deployment and
+administration. Delivered as part of the Master in High Performance Computing
+(MHPC) program, the course introduces students to key concepts in cluster
+configuration, including networking, software stack provisioning, job
+scheduling, and monitoring. Initially taught in person, the course was
+transitioned to an online format during the COVID-19 pandemic. This shift led
+to the development of openly available instructional material and a
+flipped-classroom approach that continues to support both in-person and hybrid
+delivery.  All course materials are publicly available at
+www.hpc.temple.edu/mhpc/hpc-technology/index.html. By documenting the
+structure, infrastructure, and evolution of HPCT, this paper offers a model for
+accessible HPC system training that supports workforce development in
+computational science.
+
 ## 2024
 
 ### Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures
