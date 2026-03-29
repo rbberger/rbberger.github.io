@@ -4,12 +4,81 @@ title: Lectures & Talks
 permalink: /talks/
 ---
 
+## 2026
+
+### High-Performance Software Foundation (HPSF) Conference
+
+<table>
+<tr><th>Event:</th><td><a href="https://events.linuxfoundation.org/hpsf-conference/" target="_blank">HPSF Conference 2026</a></td></tr>
+<tr><th>Location:</th><td>Chicago, IL, USA</td></tr>
+<tr><th>Dates:</th><td>March 16 - 20, 2025</td></tr>
+<tr><th>Talks:</th><td>
+<dl>
+<dt><a href="">Kessel: Continuous Integration and Developer Workflows</a></dt>
+<dd>
+<p>Kessel is a tool to create and drive continuous integration (CI) and developer
+workflows through a unified interface across multiple code projects and
+environments.</p>
+
+<p>It serves as a driver and integration layer for build systems and package
+managers, providing a flexible library of reusable components to build and
+execute complex workflows consistently.</p>
+
+<p>Modern developer and continuous integration (CI) pipelines often need to run
+multi-stepprocesses, such as setting up environments, generating and
+configuring build systems, compiling and testing software, or deploying
+dependencies. Kessel streamlines these workflows by defining them in a
+consistent, composable way that works for both interactive development and
+automated pipelines.</p>
+
+<p>A key goal of Kessel is to bridge the gap between CI pipeline definitions and
+developer command-line workflows. By offering a common abstraction for running
+sequences of steps, it reduces redundancy, simplifies maintenance, and ensures
+alignment between what developers do locally and what CI executes remotely.</p>
+
+<p>As part of its adoption, Kessel-based deployment workflows have established a
+baseline dependency configuration for commonly used HPC systems, enabling a
+shared foundation for software deployment and development across multiple code
+teams.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smSdXkMgg80?si=c4gnq1c4MDAOFbd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</dd>
+<dt><a href="">HARD: A Performance Portable Multiphysics Code based on FleCSI Framework</a></dt>
+<dd>
+<p>We present HARD, a performance-portable code for simulating multiphysics and
+multiscale systems built on the Flexible Computational Science Infrastructure
+(FleCSI). FleCSI provides a clean, extensible programming model that allows
+developers to focus on numerical methods rather than low-level system details,
+while offering lightweight, expressive wrappers around Kokkos that closely
+resemble native C++ semantics. Guided by this philosophy, we have extended
+HARD to support a broad range of Kokkos execution policies and memory
+spaces.</p>
+
+<p>HARD is designed to incorporate multiple physics modules, including
+hydrodynamics, radiation transport, multi-material, and high-explosive
+modeling, while maintaining performance portability across emerging
+heterogeneous architectures such as El Capitan, Venado, and Crossroads. HARD
+also inherits FleCSI’s support for multiple distributed-memory and task-based
+backends, including MPI, Legion, and HPX.</p>
+
+<p>In this talk, we outline core design principles, present representative
+implementation examples, and report benchmark results spanning diverse
+multiphysics scenarios, highlighting HARD’s performance and portability on
+next-generation computing systems.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f455i14pu30?si=uN46g6viMhjpT10Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</dd>
+</dl>
+</td></tr>
+</table>
+
 ## 2025
 
 ### High-Performance Software Foundation (HPSF) Conference
 
 <table>
-<tr><th>Event:</th><td><a href="https://events.linuxfoundation.org/hpsf-conference/" target="_blank">HPSF Conference 2025</a></td></tr>
+<tr><th>Event:</th><td><a href="https://events.linuxfoundation.org/archive/2025/hpsf-conference/" target="_blank">HPSF Conference 2025</a></td></tr>
 <tr><th>Location:</th><td>Chicago, IL, USA</td></tr>
 <tr><th>Dates:</th><td>May 5 - 8, 2025</td></tr>
 <tr><th>Talks:</th><td>
