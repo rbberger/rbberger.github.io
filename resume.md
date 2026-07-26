@@ -30,6 +30,7 @@ permalink: /resume/
 <li>Working on DevOps for multiple LANL codes, enabling teams to build and run
 on some of the largest HPC platforms in the world.</li>
 <li>Package maintainer, Core member, and part of the Technical Steering Committee (TSC) of <a href="https://spack.io">Spack</a></li>
+<li>Member of the Kokkos Build and Packaging Working Group</li>
 <li>Core Developer on <a href="https://github.com/lammps/lammps" target="_blank">LAMMPS</a> Molecular Dynamics code</li>
 </ul>
     </td>
@@ -43,6 +44,7 @@ on some of the largest HPC platforms in the world.</li>
 <li>Core Developer on the <a href="https://flecsi.org">FleCSI</a> project</li>
 <li>Working on DevOps for multiple LANL codes, enabling teams to build and run on new platforms such as Venado and El Capitan</li>
 <li>Package maintainer and contributor to <a href="https://spack.io">Spack</a></li>
+<li>Member of the Kokkos Build and Packaging Working Group</li>
 <li>Core Developer on <a href="https://github.com/lammps/lammps" target="_blank">LAMMPS</a> Molecular Dynamics code</li>
 </ul>
     </td>
