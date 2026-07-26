@@ -20,9 +20,23 @@ permalink: /resume/
     <col style="width: 75%" />
 </colgroup>
 <tr>
-    <th>02/2022 - Present</th>
+    <th>07/2026 - Present</th>
     <td>
-    <h4>Scientist</h4>
+    <h4>Scientist 4</h4>
+    <p>Los Alamos National Lab, Los Alamos, USA</p>
+<ul>
+<li>Core Developer on the <a href="https://flecsi.org">FleCSI</a> project</li>
+<li>Working on DevOps for multiple LANL codes, enabling teams to build and run
+on some of the largest HPC platforms in the world.</li>
+<li>Package maintainer, Core member, and part of the Technical Steering Committee (TSC) of <a href="https://spack.io">Spack</a></li>
+<li>Core Developer on <a href="https://github.com/lammps/lammps" target="_blank">LAMMPS</a> Molecular Dynamics code</li>
+</ul>
+    </td>
+</tr>
+<tr>
+    <th>02/2022 - 06/2026</th>
+    <td>
+    <h4>Scientist 3</h4>
     <p>Los Alamos National Lab, Los Alamos, USA</p>
 <ul>
 <li>Core Developer on the <a href="https://flecsi.org">FleCSI</a> project</li>
