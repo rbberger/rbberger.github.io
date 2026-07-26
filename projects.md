@@ -8,6 +8,11 @@ permalink: /projects/
 
 [Website](http://www.flecsi.org) | [GitHub](https://github.com/flecsi/flecsi)
 
+## Kessel
+
+[Website](https://lanl.github.io/kessel/) | [GitHub](https://github.com/lanl/kessel)
+
+
 ## Singularity-EOS
 
 [Website](https://lanl.github.io/singularity-eos) | [GitHub](https://github.com/lanl/singularity-eos)
