@@ -6,7 +6,8 @@ permalink: /resume/
 
 <img src="/assets/img/richardberger.jpg" width="128" style="float: left; border-radius: 50%" />
 <div style="margin-left: 154px; padding-top: 16px; display: block;">
-<h3>Richard Felix Berger</h3>
+<div style="color: gray; font-size:0.8em">Dr. techn. Dipl.-Ing.</div>
+<h3>Richard Felix Berger, <span style="color: gray; font-size: 0.6em">Dr. techn. Dipl.-Ing.</span></h3>
 <p>High-Performance Computing Specialist | Research Software Engineer | Mechatronic</p>
 <p><a href="mailto:{{ site.email }}">{{ site.email }}</a> | <a href="https://www.linkedin.com/in/richard-felix-berger/"><svg class="svg-icon" style="padding-top: 4px"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> richard-felix-berger</a></p>
 </div>
